@@ -1,10 +1,7 @@
-h1 {
-    color: #000080;
+/*https://coolors.co/palette/ff8811-f4d06f-fff8f0-9dd9d2-392f5a*/
+body { 
+    background-color:#392F5A;
 }
-h2 {
-    Color: #a825d0;	
-}
-#interesses {
-    background-color: rgba(92, 92, 209, 0.37);
-    text-align: center;
+h1 { 
+    color: #9DD9D2;
 }
