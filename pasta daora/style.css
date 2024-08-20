@@ -1,7 +1,18 @@
 /*https://coolors.co/palette/ff8811-f4d06f-fff8f0-9dd9d2-392f5a*/
 body { 
-    background-color:#392F5A;
-}
+    background-color:#9a90bb;
+text-align: center;}
+    
 h1 { 
-    color: #9DD9D2;
+    color: #023832;
+}
+ul{ 
+    list-style-type: none;
+}
+li{ 
+    display: inline;
+}
+
+a:hover{ 
+    color: #F4D06F ;
 }
